@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\list-posts",
+    "\\src\\app\\components\\login-page",
+    "\\src\\app\\components\\post-detail",
+    "\\src\\app\\components\\register-page",
+    "\\src\\app\\models",
+    "\\src\\app\\services"
+  ],
+  "SelectedNode": "\\src\\app\\components\\list-posts\\list-posts.component.html",
+  "PreviewInSolutionExplorer": false
+}
